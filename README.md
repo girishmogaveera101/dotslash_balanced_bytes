@@ -4,7 +4,7 @@
 
 <h3>Teck Stacks</h3>
 <ul>
-  <li>Streamlit</li>
+  <li color='red'>Streamlit</li>
   <li>Flask</li>
   <li>HTML and CSS</li>
 </ul>
