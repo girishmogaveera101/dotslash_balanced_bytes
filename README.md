@@ -2,7 +2,7 @@
 <h5>A college level Hackathon project</h5>
 
 
-<h5>Teck Stacks</h5>
+<h3>Teck Stacks</h3>
 <ul>
   <li color='red'>Streamlit</li>
   <li>Flask</li>
